@@ -59,3 +59,5 @@ for round in tournament:
             score2 += 1
 
 print(score2)
+
+# note to self: read about mappings
